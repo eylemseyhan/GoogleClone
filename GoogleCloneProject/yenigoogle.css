@@ -1,0 +1,150 @@
+nav {
+    float: right;
+    display:flex;
+    
+    margin-top:15px;
+    padding: 12px; 
+    align-content: space-around;   
+}
+
+.gmailvegorseller {
+    margin-right: 17px;
+    font-size: 15px;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:black;
+
+}
+a {
+    text-decoration: none; /* linkin altı çizili olmasını disable ettim */
+    transition-property: none;
+    color:black;
+}
+.circle { border-radius: 50%; }
+
+
+#app {
+    width: 24px;
+    height: 20px;
+    margin-right: 17px;
+}
+#pp {
+    width: 40px;
+    height: 40px;
+    
+    
+}
+#logo {
+    margin-left:595px;
+    margin-top: 170px;
+    width: 300px;
+    height: 170px;
+}
+#aramabutonu {
+    width:35%;
+    border-radius: 50px;
+    display: flex;
+    height:40px;
+    border:1px solid lightgrey;
+    margin-left:470px;
+
+    
+}
+
+#aramabutonu:hover {
+    border-radius:50px;
+    box-shadow: -3px 9px 10px 0px rgba(177, 175, 177, 0.74);
+
+}
+#googledaara {
+    background-color: #fbf6f6;
+    border: 1px solid #f2f2f2;
+    margin-top: 25px;
+    margin-left:565px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 14px;
+    border-radius: 9px;
+    
+    height:36px ;
+}
+#googledaara:hover {
+    box-shadow: -3px 9px 10px 0px rgba(177, 175, 177, 0.74);
+    
+
+}
+#feellucky {
+    background-color: #fbf6f6;
+    border: 1px solid #f2f2f2;
+    margin:auto;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 14px;
+    border-radius: 9px;
+    
+    height:36px ;
+}
+#feellucky:hover {
+    
+    box-shadow: -3px 9px 10px 0px rgba(177, 175, 177, 0.74);
+
+}
+.keyboard {
+    margin-top: 7px;
+    padding-left: 400px;
+    float:right;
+    
+}
+.buyutec {
+    margin-top: 7px;
+    margin-left: 9px;
+}
+#voice {
+    width: 30px;
+    height:30px;
+}
+
+#footer1 {
+    margin-top: 250px;
+    background-color: #f2f2f2;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 16px;
+    
+}
+#turkiye {
+    padding-top: 16px;
+    margin-left: 20px;
+}
+
+
+.altkisim {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    font-size: 14px;
+}
+
+.altkisim:hover {
+    text-decoration:underline;
+    color:rgb(90, 89, 89);
+
+}
+hr{
+    height: 0.5px;
+    background-color: #ccc;
+    border: none;
+}
+.carbon {
+    
+    padding-left: 20px;
+    float: left;
+    font-size: 14px;
+
+
+}
